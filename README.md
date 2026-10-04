@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmmanuelOI
 - 👀 I’m interested in DevOps And Data Analytics
-- 🌱 I’m currently learning with DAREY.OI
+- 🌱 I am developing world SAAS
 - 💞️ I’m looking to collaborate on DevOps Projects
 - 📫 How to reach me on olanrewaju.i@gmail.com
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmmanuelOI
-- 👀 I’m interested in DevOps And Data Analytics
-- 🌱 I am developing world SAAS
-- 💞️ I’m looking to collaborate on DevOps Projects
+- 👀 I’m interested in DevOps And SAAS development
+- 🌱 I am a CDPO and Cybersecurity Certified
+- 💞️ I am trained in AWS Cloud Computing
 - 📫 How to reach me on olanrewaju.i@gmail.com
 
 <!---
